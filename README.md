@@ -31,8 +31,20 @@ After voice recognition is finished, Activities should manage the application ac
 ### Use Cases
         
 #### Home Page Usages
-*Play        | Navigates to play screen.
+* Play        | Navigates to play screen.
 * Leader      | Navigates to leader board.
 * Preferences | Navigates to prefrences screen.
 
+#### Preferences Usages
+* Dark        | On/Off dark mode.
+* Turkish     | On/Off Turkish language.
+* Voice       | On/Off Voice Command feature.
+* User name   | Changes user name.
+* Save        | Saves user name.
 
+#### Leader Board Page Usages
+* Back        | Navigates back to home page.
+
+#### Category Page Usages
+* Back        | Navigates back to home page.
+* 'Category'  | Navigates game screen corresponding to 'Category'.
