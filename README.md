@@ -8,7 +8,7 @@ For details about the service introduction and access guide, visit the following
 The application has a voice command feature. The whole application can be managed with voice commands. This feature has been integrated to use ASR technology more widely.
 
 ## Voice Command
-HMS ASR is used both in the game screen of the application and in other screens with the voice command feature. Therefore, a helper class 'SpeechRecognition' that encapsulates the implementation is created to simplify its use. 'SpeechRecognition' class. ASR has two modes. In one mode 'ALLINONE', the sentence is written on the screen after the speech is finished, while in the other mode 'WORDFLUX', word by word can be written on the screen while speaking. This mode can be change with 'changeListeninFeature' method:
+HMS ASR is used both in the game screen of the application and in other screens with the voice command feature. Therefore, a helper class 'SpeechRecognition' that encapsulates the implementation is created to simplify its use. `SpeechRecognition` class. ASR has two modes. In one mode 'ALLINONE', the sentence is written on the screen after the speech is finished, while in the other mode 'WORDFLUX', word by word can be written on the screen while speaking. This mode can be change with 'changeListeninFeature' method:
 
 '''
 private void changeListeningFeature(int feature) {
