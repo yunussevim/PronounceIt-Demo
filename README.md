@@ -31,8 +31,8 @@ After voice recognition is finished, Activities should manage the application ac
 ### Use Cases
         
 #### Home Page Usages
-..* Play        | Navigates to play screen.
-..* Leader      | Navigates to leader board.
-..* Preferences | Navigates to prefrences screen.
+*Play        | Navigates to play screen.
+* Leader      | Navigates to leader board.
+* Preferences | Navigates to prefrences screen.
 
 
