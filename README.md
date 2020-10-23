@@ -5,6 +5,8 @@ Pronounce It is a game based on Hms Automatic Speech Recognition and Text to Spe
 
 For details about the service introduction and access guide, visit the following website: [HUAWEI ML Kit Development Guide] (https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides-V5/service-introduction-0000001050040017-V5) [HUAWEI ML Kit API Reference] (https://developer.huawei.com/consumer/en/doc/development/HMSCore-References-V5/asrsdkoverview-0000001050747393-V5)
 
+-----------------------------
+
 The application has a voice command feature. The whole application can be managed with voice commands. This feature has been integrated to use ASR technology more widely.
 
 ## Voice Command
